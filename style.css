@@ -1,0 +1,9 @@
+body {
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Battle_of_Waterloo_1815.PNG/1200px-Battle_of_Waterloo_1815.PNG") no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+.jumbotron {
+    margin: 0;
+    padding-bottom: 0;
+}
